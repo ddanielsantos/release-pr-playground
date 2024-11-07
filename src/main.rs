@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, crates.io!");
+    println!("Hello, crates.io! 2");
 }
