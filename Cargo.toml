@@ -1,4 +1,7 @@
 [package]
+description = "just a playground for release-plz, ignore plz"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/ddanielsantos/release-pr-playground"
 name = "r-pr-play"
 version = "0.1.0"
 edition = "2021"
